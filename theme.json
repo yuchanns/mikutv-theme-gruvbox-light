@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "base": "mikutv-dark",
+  "appearance": "light",
+  "colors": {
+    "surface": {
+      "canvas": "#F5ECD0",
+      "sidebar": "#EBE0BE",
+      "panel": "#FAF3DC",
+      "raised": "#FDF8E8",
+      "input": "#ECE1C0"
+    },
+    "text": {
+      "primary": "#282828",
+      "secondary": "#3C3836",
+      "muted": "#504945"
+    },
+    "accent": {
+      "primary": "#9A5B0B",
+      "soft": "#8C5108",
+      "strong": "#784405",
+      "foreground": "#FFFFFF"
+    },
+    "border": {
+      "subtle": "#3C38361A",
+      "strong": "#3C383640"
+    },
+    "focus": {
+      "background": "#DFCFA6",
+      "foreground": "#242220",
+      "ring": "#504945"
+    },
+    "selected": {
+      "background": "#E8D5A6",
+      "foreground": "#593506",
+      "focusBackground": "#9A5B0B",
+      "focusForeground": "#FFFFFF"
+    },
+    "hover": {
+      "background": "#E8DCBA",
+      "foreground": "#282828"
+    },
+    "pressed": {
+      "background": "#D4C296",
+      "foreground": "#1D2021"
+    },
+    "disabled": {
+      "background": "#E8DFC3",
+      "foreground": "#665C54"
+    },
+    "status": {
+      "error": {
+        "background": "#F5D7D2",
+        "foreground": "#9D1418"
+      },
+      "warning": {
+        "background": "#F5E4B8",
+        "foreground": "#784904"
+      },
+      "success": {
+        "background": "#E2E9C5",
+        "foreground": "#47580C"
+      }
+    },
+    "overlay": {
+      "scrim": "#1D202173",
+      "playerTop": "#1D2021D9",
+      "playerBottom": "#1D2021F2",
+      "shadow": "#2828281C"
+    },
+    "playback": {
+      "foreground": "#FFFFFF",
+      "secondary": "#EBDBB2",
+      "track": "#FFFFFF40",
+      "progress": "#FABD2F",
+      "subtitle": "#FFFFFF",
+      "subtitleOutline": "#000000"
+    },
+    "decoration": {
+      "ambient": "#B576141C",
+      "cardStart": "#E9DBB4",
+      "cardEnd": "#F5ECD0"
+    }
+  }
+}

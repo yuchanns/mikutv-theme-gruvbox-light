@@ -1,0 +1,11 @@
+{
+  "id": "gruvbox-light",
+  "name": "Gruvbox Light",
+  "description": "Warm retro parchment and golden ochre daytime palette inspired by Gruvbox Light for MikuTV.",
+  "kind": "theme",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "minAppVersion": "0.1.0",
+  "license": "Apache-2.0",
+  "theme": "theme.json"
+}
